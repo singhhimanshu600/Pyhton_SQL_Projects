@@ -1,3 +1,7 @@
+
+DATASET LINK-----> https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
+
+
 Basic Queries
 1. List all unique cities where customers are located.
 2. Count the number of orders placed in 2017.
